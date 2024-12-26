@@ -1,0 +1,15 @@
+.key1{
+    display: flex;
+    flex-wrap: wrap;
+    height: fit-content;
+    width: 180px;
+    margin: 10px auto;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+  }
+  .keys{
+    height: 46px;
+    width: 46px;
+    margin: 4px;
+  }
